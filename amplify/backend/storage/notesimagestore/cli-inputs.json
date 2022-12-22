@@ -1,0 +1,14 @@
+{
+  "resourceName": "notesimagestore",
+  "policyUUID": "a135b48e",
+  "bucketName": "noteattachments",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
